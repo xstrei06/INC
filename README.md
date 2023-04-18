@@ -1,5 +1,4 @@
-# INC
-INC 2021/2022
+# FIT VUT - INC 2021/2022
 
 Navrh - 2/5
 
